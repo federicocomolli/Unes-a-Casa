@@ -1,4 +1,4 @@
-# Unes-a-Casa
+# UNES A CASA
 
 Progetto del corso Sistemi Informativi @ PoliMI 2017/2018
 
