@@ -4,5 +4,5 @@ Progetto del corso Sistemi Informativi @ PoliMI 2017/2018
 
 team
 
-https://github.com/francescocorda
-https://github.com/federicocomolli
+[Francesco Corda](https://github.com/francescocorda)  
+[Federico Comolli](https://github.com/federicocomolli)
